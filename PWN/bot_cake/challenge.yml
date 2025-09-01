@@ -1,0 +1,14 @@
+name: bot_cake
+category: pwn
+
+difficulty: medium-hard
+cpu_spec: 1
+mem_spec: 512
+
+description: |
+  Bot needs cake. But you can't give it.
+
+  nc {ip} {port}
+
+flag: SSD{61a97023bac142d72fe231e31cc6b2df7a6cb7cfe17312a675585461e1bc3097}
+chall_dir: pwn-bot_cake

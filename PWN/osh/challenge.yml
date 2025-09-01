@@ -1,0 +1,11 @@
+name: osh
+category: pwn
+difficulty: easy
+cpu_spec: 1
+mem_spec: 512
+port: 15253
+description: |
+  I made my own shell!
+flag: SSD{3@$Y_8aS1c_80F}
+chall_dir: pwn-osh
+compose_file: pwn-osh/for_organizer/docker-compose.yml

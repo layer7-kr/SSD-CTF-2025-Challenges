@@ -1,0 +1,10 @@
+name: catchme
+category: pwn
+difficulty: easy
+cpu_spec: 1
+mem_spec: 512
+port: 15252
+description: Catch me If you can!
+flag: SSD{c5cc2e5afc8f410ed358295eee5279f5}
+chall_dir: catchme
+compose_file: catchme/prob/for_organizer/docker-compose.yml

@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+    osh:
+        container_name: osh
+        build:
+            context: .
+            dockerfile: Dockerfile
+        ports:
+            - "15253:15252"
