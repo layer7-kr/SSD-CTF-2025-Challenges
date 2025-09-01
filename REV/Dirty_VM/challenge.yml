@@ -1,0 +1,13 @@
+name: Dirty_VM
+category: reversing
+
+difficulty:
+cpu_spec: 
+mem_spec: 
+port: 
+
+description:
+
+flag: SSD{W3lc0me_2_VM_Challenge_2025}
+chall_dir: Dirty_VM
+compose_file: 

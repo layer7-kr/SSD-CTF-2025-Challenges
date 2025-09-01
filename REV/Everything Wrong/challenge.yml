@@ -1,0 +1,13 @@
+name: Everything Wrong
+category: reversing
+
+difficulty:
+cpu_spec: 
+mem_spec: 
+port: 
+
+description: SSD는 뭐의 약자일까요? 안 궁금하다고요?
+
+flag: SSD{1e0415cc6e06485c3cf39a1d50c5160c56c1b4057f3}
+chall_dir: Everything Wrong
+compose_file: 

@@ -1,0 +1,13 @@
+name: SOmething Wrong
+category: reversing
+
+difficulty:
+cpu_spec: 
+mem_spec: 
+port: 
+
+description: So sometimes I feel so isolated in this society, so I choose to focus on solutions, so that my soul grows stronger, so eventually I become someone who is so resourceful, so motivated, and so extraordinary.
+
+flag: SSD{a9c02bbaeb5692d1987dab925f715dc8564}
+chall_dir: SOmething Wrong
+compose_file: 

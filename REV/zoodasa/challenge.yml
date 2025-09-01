@@ -1,0 +1,13 @@
+name: zoodasa
+category: reversing
+
+difficulty:
+cpu_spec: 
+mem_spec: 
+port: 
+
+description: 
+
+flag: SSD{hi}
+chall_dir: zoodasa
+compose_file: 

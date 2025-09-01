@@ -1,0 +1,13 @@
+name: koreant
+category: rev
+
+difficulty:
+cpu_spec:
+mem_spec: 
+port: 
+
+description: 코리앤트는 한국(korea) + 개미(ant)를 합친말로 한국 개미투자자들을 뜻합니다.주식과 코인에 투자하며 생기는 상황,생각,감정 등을 익살스럽게 표현하여 투자를 해보신 분이라면 누구나 공감하실 수 있는 캐릭터 입니다. 제 2의 페페(슬픈개구리) 탄생이 얼마 남지 않았네요.
+
+flag: SSD{k0_Ko_69590494}
+chall_dir: koreant
+compose_file:
