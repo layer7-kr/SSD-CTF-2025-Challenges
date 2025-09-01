@@ -21,6 +21,12 @@ SSD CTF는 선린인터넷고, 세명컴퓨터고, 한국디지털미디어고�
 | Web | [SSD](./WEB/SSD/) | 박진완 |
 | Web | [WP-Recon](./WEB/WP-Recon/) | 정성훈 |
 | Web | [DigitalArt_Gallery](./WEB/DigitalArt_Gallery/) | 이현규 |
+| REV | [Everything Wrong](./REV/Everything%20Wrong/) | 임지윤 |
+| REV | [its mine everything!!!](./REV/its%20mine%20everything!!!/) | 이재영 |
+| REV | [SOmething Wrong](./REV/SOmething%20Wrong/) | 임지윤 |
+| REV | [zoodasa](./REV/zoodasa/) | 이재영 |
+| REV | [koreant](./REV/koreant/) | 이재영 |
+| REV | [Dirty_VM](./REV/Dirty_VM/) | 송은우 |
 
 > 주최/주관 : [선린인터넷고등학교](https://sunrint.sen.hs.kr/)  
 > 후원 : [HSPACE](https://hspace.io)
