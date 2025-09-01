@@ -1,0 +1,11 @@
+name: graffiti
+category: pwn
+difficulty: medium
+cpu_spec: 1
+mem_spec: 1024
+port: 15252
+description: |
+  Spray my wall
+flag: SSD{R3@1W0Rld_sTyle_Exp10iT}
+chall_dir: pwn-graffiti
+compose_file: pwn-graffiti/for_organizer/docker-compose.yml

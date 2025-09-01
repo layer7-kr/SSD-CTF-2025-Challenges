@@ -7,9 +7,13 @@ SSD CTF는 선린인터넷고, 세명컴퓨터고, 한국디지털미디어고�
 
 ## List
 
-|    Category   |  difficulty  |    problem |   Author |
-|:-------------:|:------------:|:----------:|:--------:|
-| Pwnable | EAZY | [YEYE] | [Beef](https://github.com/dlehdrjsgg) |
+|    Category   | problem |   Author |
+|:-------------:|:------------:|:--------:|
+| Pwnable | [bot_cake](./PWN/bot_cake/) | 조수호 |
+| Pwnable | [catchme](./PWN/catchme/) | 안우진 |
+| Pwnable | [find_bird](./PWN/find_bird/) | 강희찬 |
+| Pwnable | [osh](./PWN/osh/) | 김영민 |
+| Pwnable | [graffiti](./PWN/graffiti/) | 김영민 |
 
 > 주최/주관 : [선린인터넷고등학교](https://sunrint.sen.hs.kr/)  
 > 후원 : [HSPACE](https://hspace.io)
