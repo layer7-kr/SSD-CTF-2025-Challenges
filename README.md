@@ -1,4 +1,4 @@
-![SSD CTF 2025 Banner](./image/banner.png)
+![SSD CTF 2025 Banner](./banner.png)
 
 # SSD CTF 2025 Challenges
 
