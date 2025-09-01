@@ -1,0 +1,14 @@
+name: one_apple
+category: ps
+
+difficulty: easy
+cpu_spec: 1
+mem_spec: 512
+
+description: |
+  항상 dakuo 대표님께 감사하세요.
+
+  nc {ip} {port}
+
+flag: SSD{ca12a87320b0590baa8f473a81936133da20dce2adacf36ea55341f6677d38f5}
+chall_dir: ps-one_apple

@@ -14,6 +14,8 @@ SSD CTF는 선린인터넷고, 세명컴퓨터고, 한국디지털미디어고�
 | Pwnable | [find_bird](./PWN/find_bird/) | 강희찬 |
 | Pwnable | [osh](./PWN/osh/) | 김영민 |
 | Pwnable | [graffiti](./PWN/graffiti/) | 김영민 |
+| Programming | [double](./Programming/double/) | 김영민 |
+| Programming | [one_apple](./Programming/one_apple/) | 김영민 |
 
 > 주최/주관 : [선린인터넷고등학교](https://sunrint.sen.hs.kr/)  
 > 후원 : [HSPACE](https://hspace.io)

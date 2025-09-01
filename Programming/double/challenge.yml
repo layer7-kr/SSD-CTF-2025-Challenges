@@ -1,0 +1,14 @@
+name: double
+category: ps
+
+difficulty: medium
+cpu_spec: 1
+mem_spec: 512
+
+description: |
+  Double isn't a magic bullet.
+
+  nc {ip} {port}
+
+flag: SSD{ab3ef81c4fa8b059146790a4624d5ad7fc3bb112975a2dc65e33d1eb18989f05}
+chall_dir: ps-double
