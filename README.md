@@ -16,6 +16,11 @@ SSD CTF는 선린인터넷고, 세명컴퓨터고, 한국디지털미디어고�
 | Pwnable | [graffiti](./PWN/graffiti/) | 김영민 |
 | Programming | [double](./Programming/double/) | 김영민 |
 | Programming | [one_apple](./Programming/one_apple/) | 김영민 |
+| Web | [HDD](./WEB/HDD/) | 박진완 |
+| Web | [Kids](./WEB/Kids/) | 가세혁 |
+| Web | [SSD](./WEB/SSD/) | 박진완 |
+| Web | [WP-Recon](./WEB/WP-Recon/) | 정성훈 |
+| Web | [DigitalArt_Gallery](./WEB/DigitalArt_Gallery/) | 이현규 |
 
 > 주최/주관 : [선린인터넷고등학교](https://sunrint.sen.hs.kr/)  
 > 후원 : [HSPACE](https://hspace.io)

@@ -1,0 +1,12 @@
+name: DigitalArt_Gallery
+category: web
+difficulty: medium
+cpu_spec: 1
+mem_spec: 512
+port: 25000
+
+description: An online gallery for displaying digital art. Upload GIFs and share them with others!
+
+flag: SSD{d1g1t4l_4rt_phar_m4g1c_curAt0r_m0de}
+chall_dir: for_organizer
+compose_file: for_organizer/docker-compose.yml

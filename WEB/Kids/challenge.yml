@@ -1,0 +1,13 @@
+name: kids
+category: web
+difficulty: easy
+cpu_spec: 1
+mem_spec: 512
+port: 25001
+description: |
+  - 아무리봐도 GPT로 대충만든 서버네요
+  - 그러면 취약점이 분명히 있을 것 같은데요?
+  플래그 형식: `SSD{...}`
+flag: SSD{CUTTING_EDGE_TECH_IS_ALWAYS_DANGER}
+chall_dir: kids
+compose_file: kids/for_organizer/docker-compose.yml

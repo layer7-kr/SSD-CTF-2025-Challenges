@@ -1,0 +1,10 @@
+name: WP-Recon
+category: webn
+difficulty: easy
+cpu_spec: 1
+mem_spec: 512
+port: 24657
+description: Basic Recon 
+flag: SSD{yeeee_eeeeeee_eyyyy_yy_yyyyyy}
+chall_dir: web-wp-json-wp-real
+compose_file: web-wp-json-wp-real/for_organizer/docker-compose.yml

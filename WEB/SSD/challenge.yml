@@ -1,0 +1,13 @@
+name: SSD
+category: web
+
+difficulty: medium
+cpu_spec: 1
+mem_spec: 512
+port: 3000
+
+description: SQL-state drive
+
+flag: SSD{88ccf740f3912b58b35c1e8ab3c57fba77aa22f7}
+chall_dir: web-ssd
+compose_file: web-ssd/prob/for_organizer/docker-compose.yml
