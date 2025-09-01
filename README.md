@@ -1,3 +1,5 @@
+![SSD CTF 2025 Banner](./image/banner.png)
+
 # SSD CTF 2025 Challenges
 
 SSD CTF는 선린인터넷고, 세명컴퓨터고, 한국디지털미디어고가 함께하는 고등학교 대항전 해킹 대회입니다.
@@ -32,3 +34,5 @@ SSD CTF는 선린인터넷고, 세명컴퓨터고, 한국디지털미디어고�
 > 후원 : [HSPACE](https://hspace.io)
 
 > 운영진 : [이동건(Beef)](https://github.com/dlehdrjsgg), [서재연(jaexeon)](https://github.com/jaexeon), [임지윤(Tuple)](https://github.com/tuplest), [박진완(goldleo1)](https://github.com/goldleo1), [강희찬(Yeonba0918)](https://github.com/Yeonba0918)
+
+> 블로그 바로가기 : https://blog.layer7.kr/ssd-ctf
