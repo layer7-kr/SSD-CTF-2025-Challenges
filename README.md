@@ -16,8 +16,8 @@ SSD CTF는 선린인터넷고, 세명컴퓨터고, 한국디지털미디어고�
 | Pwnable | [find_bird](./PWN/find_bird/) | 강희찬 |
 | Pwnable | [osh](./PWN/osh/) | 김영민 |
 | Pwnable | [graffiti](./PWN/graffiti/) | 김영민 |
-| Programming | [double](./Programming/double/) | 김영민 |
-| Programming | [one_apple](./Programming/one_apple/) | 김영민 |
+| Programming | [double](./Programming/double/) | 조수호 |
+| Programming | [one_apple](./Programming/one_apple/) | 조수호 |
 | Web | [HDD](./WEB/HDD/) | 박진완 |
 | Web | [Kids](./WEB/Kids/) | 가세혁 |
 | Web | [SSD](./WEB/SSD/) | 박진완 |
